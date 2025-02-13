@@ -1,0 +1,68 @@
+Source: https://elittile.com/collections/1-series-stromboli
+Destination: https://elittile.com/collections/1-series-stromboli#MainContent
+Error Code: Connection Error
+-------------------
+Source: https://elittile.com/collections/1-series-stromboli
+Destination: https://elittile.com/collections/151-series-sweet-bars
+Error Code: Connection Error
+-------------------
+Source: https://elittile.com/collections/1-series-stromboli
+Destination: https://elittile.com/collections/151-series-sukabumi
+Error Code: Connection Error
+-------------------
+Source: https://elittile.com/collections/1-series-stromboli
+Destination: https://elittile.com/collections/1-series-tangram
+Error Code: Connection Error
+-------------------
+Source: https://elittile.com/collections/1-series-stromboli
+Destination: https://elittile.com/collections/103-series-tanzania
+Error Code: Connection Error
+-------------------
+Source: https://elittile.com/collections/1-series-stromboli
+Destination: https://elittile.com/collections/1-series-terracotta-italian-saltillo
+Error Code: Connection Error
+-------------------
+Source: https://elittile.com/collections/1-series-stromboli
+Destination: https://elittile.com/collections/151-series-tesserae
+Error Code: Connection Error
+-------------------
+Source: https://elittile.com/collections/1-series-stromboli
+Destination: https://elittile.com/collections/151-series-texiture
+Error Code: Connection Error
+-------------------
+Source: https://elittile.com/collections/1-series-stromboli
+Destination: https://elittile.com/collections/106-series-thomas
+Error Code: Connection Error
+-------------------
+Source: https://elittile.com/collections/1-series-stromboli
+Destination: https://elittile.com/collections/302-series-tokyo
+Error Code: Connection Error
+-------------------
+Source: https://elittile.com/collections/1-series-stromboli
+Destination: https://elittile.com/collections/112-series-totalook
+Error Code: Connection Error
+-------------------
+Source: https://elittile.com/collections/151-series-twin-peaks#MainContent
+Destination: https://elittile.com/collections/151-series-twister
+Error Code: Connection Error
+-------------------
+Source: https://elittile.com/pages/contact#MainContent
+Destination: https://elittile.com/pages/showrooms
+Error Code: Connection Error
+-------------------
+Source: https://elittile.com/collections/all?page=12#MainContent
+Destination: https://elittile.com/products/bejmat-white-glossy-6x6-e0151-00076
+Error Code: Connection Error
+-------------------
+Source: https://elittile.com/collections/611-series-tile-grout-caulking-sanded#MainContent
+Destination: https://elittile.com/products/colorfast-caulk-103-oz-145-light-smoke-sanded-e0611-00016
+Error Code: Connection Error
+-------------------
+Source: https://elittile.com/products/enhanced-marble-prefab-alaska-white-polished-left-26x110-e0752-00005#MainContent
+Destination: https://elittile.com/pages/pick-up-location
+Error Code: 404
+-------------------
+Source: https://elittile.com/pages/pick-up-location
+Destination: https://elittile.com/pages/pick-up-location#MainContent
+Error Code: 404
+-------------------
